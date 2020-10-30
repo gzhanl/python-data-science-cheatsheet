@@ -5,6 +5,11 @@
 
 ![呆鸟的Python数据分析](https://upload-images.jianshu.io/upload_images/3240514-6a4349fff3b8b019.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+ 
+
+* [Markdown Cheatsheet ](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet)    
+---
+
 一、[Python 基础系列](https://www.jianshu.com/p/4574d95755db)
 
 * [Python数据科学速查表 - Python 基础](https://github.com/jaystone776/python-data-science-cheatsheet/blob/master/Python数据科学速查表%20-%20Python%20基础.pdf)
